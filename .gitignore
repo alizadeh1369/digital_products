@@ -1,0 +1,6 @@
+evn/
+.idea/
+media/
+
+**/__pycache__/
+*.pyc
